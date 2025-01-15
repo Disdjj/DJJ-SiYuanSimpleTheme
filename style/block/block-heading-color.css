@@ -139,6 +139,7 @@
 }
 
 /*---------------------------编辑区折叠标题时添加 "标题折叠标记"----------------------------*/
-.protyle-wysiwyg [fold="1"][data-node-id][data-type="NodeHeading"]::after {
+/* .protyle-wysiwyg [fold="1"][data-node-id][data-type="NodeHeading"]::after {
     content: var(--custom-h-fold-mark);
 }
+ */
