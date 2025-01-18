@@ -4,12 +4,12 @@
   "url": "https://github.com/handlI/SiYuanSimpleTheme",
   "version": "1.2.2",
   "displayName": {
-    "default": "Theme: color_num_heading",
-    "zh_CN": "主题：标题自动编号和着色"
+    "default": "DJJ",
+    "zh_CN": "DJJ"
   },
   "description": {
     "default": "This is a theme with automatic numbering and colored heading.",
-    "zh_CN": "在官方样式的基础上，对标题进行自动编号和颜色渲染。"
+    "zh_CN": "在主题：标题自动编号和着色, 做了简单的调整"
   },
   "readme": {
     "default": "README.md",
